@@ -1,0 +1,16 @@
+[package]
+name = "color-palettes"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Generate colors in a perceptually uniform color space."
+keywords = ["color", "palette", "theme", "oklab"]
+categories = ["graphics"]
+readme = "README.md"
+
+
+[dependencies]
+float-cmp = "0.10.0"
+plotters = "0.3.7"
+rand = "0.8.5"
+rand_distr = "0.4.3"
