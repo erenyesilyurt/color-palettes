@@ -7,6 +7,7 @@ description = "Generate colors in a perceptually uniform color space."
 keywords = ["color", "palette", "theme", "oklab"]
 categories = ["graphics"]
 readme = "README.md"
+repository = "https://github.com/erenyesilyurt/color-palettes"
 
 
 [dependencies]
